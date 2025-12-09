@@ -10,8 +10,15 @@ A modern, beautiful time tracking web application with AI-powered analytics buil
 EXPLANATION AND OVERVIEW OF PROJECT
 https://drive.google.com/file/d/1eoWvH7_0XYx2TZg8d_In0l8NxeUlfB_b/view?usp=sharing
 
-## 🌟 Features
 
+<img width="1654" height="862" alt="Screenshot 2025-12-10 000903" src="https://github.com/user-attachments/assets/51cdcd88-7c5b-4e0b-a05f-6c05bce31237" />
+<img width="1812" height="859" alt="Screenshot 2025-12-10 000956" src="https://github.com/user-attachments/assets/cde156d7-9a8f-4124-8bc2-beffcb1303f5" />
+<img width="1806" height="700" alt="Screenshot 2025-12-10 001320" src="https://github.com/user-attachments/assets/9b438e9b-3fd4-492a-b6e4-6939a5c2569a" />
+<img width="1680" height="860" alt="Screenshot 2025-12-10 001358" src="https://github.com/user-attachments/assets/6dc5fad5-0fcd-4fe2-8777-9b040c6a482a" />
+<img width="1703" height="871" alt="Screenshot 2025-12-10 001421" src="https://github.com/user-attachments/assets/27d37f71-70b5-4ae8-99d8-2693d74fc71e" />
+<img width="716" height="858" alt="Screenshot 2025-12-10 001129" src="https://github.com/user-attachments/assets/4ca7d7d9-a977-4091-adbe-f6543c1918b0" />
+
+## 🌟 Features
 - **🔐 Google OAuth Authentication** - Secure login with Google accounts
 - **📊 Activity Tracking** - Track daily activities across 5 categories (Work, Study, Sleep, Exercise, Entertainment)
 - **📈 Beautiful Analytics** - Visualize your time with interactive charts
