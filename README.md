@@ -7,6 +7,9 @@ A modern, beautiful time tracking web application with AI-powered analytics buil
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-orange)
 
+EXPLANATION AND OVERVIEW OF PROJECT
+https://drive.google.com/file/d/1eoWvH7_0XYx2TZg8d_In0l8NxeUlfB_b/view?usp=sharing
+
 ## 🌟 Features
 
 - **🔐 Google OAuth Authentication** - Secure login with Google accounts
